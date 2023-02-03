@@ -1,1 +1,1 @@
-#####Amanda Bethel- Full Stack Software Developer######
+Amanda Bethel- Full Stack Software Developer
